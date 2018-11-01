@@ -4,6 +4,7 @@ author: Uri
 tags:
   - 创作
   - 古筝
+  - 自冾
 categories:
   - 创作
 description: 为古筝创作一张专辑
