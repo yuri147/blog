@@ -80,7 +80,10 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: https://github.com/yuri147/yuri147.github.io.git
+  branch: master
+  
 
 
 use_motion: true
