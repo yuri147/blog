@@ -7,6 +7,7 @@ tags:
 categories:
  - 创作
 ---
+![](/images/yunjian.jpg)
 
 ### 终于是完成了一首
 《云·间》这首作品在挣扎中诞生了。
